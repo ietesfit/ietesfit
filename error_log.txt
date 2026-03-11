@@ -1,0 +1,3 @@
+To https://github.com/ietesfit/ietesfit.git
+ ! [remote rejected] main -> main (permission denied)
+error: failed to push some refs to 'https://github.com/ietesfit/ietesfit.git'
