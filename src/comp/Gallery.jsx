@@ -4,7 +4,7 @@ import imageUrlBuilder from "@sanity/image-url";
 import Carousel from "react-bootstrap/Carousel";
 import { motion } from "framer-motion";
 import "./Gallery.css";
-import EventCard from "../components/Eventcard";
+import EventCard from "../components/EventCard";
 import ViewMoreContent from "../components/ViewMoreContent";
 
 const builder = imageUrlBuilder(sanityClient);
